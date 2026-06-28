@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bis zum Mond
+
+This log tracks the cryptographic history and versioning for the song **Bis zum Mond** (bis-zum-mond).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:28:41.930687 | `v1` | `1b11b89172fbf6aa50de6160006ec223fbc0d60773ec95b2d15b959cbf3f4029` | `0948594ddc6570b73d573cb4b70a5fe9d6927675644a40a941817d7c49eac537` | `2026-06-28_bis-zum-mond-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

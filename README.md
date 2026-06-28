@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bis-zum-mond/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bis zum Mond](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-zum-mond/) |
+| **Get License** | [Request Licensing for Bis zum Mond](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-zum-mond/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1b11b89172fbf6aa50de6160006ec223fbc0d60773ec95b2d15b959cbf3f4029` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
